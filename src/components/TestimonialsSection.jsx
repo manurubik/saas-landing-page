@@ -12,7 +12,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/1.png"
+                src="/saas-landing-page/testimonials/1.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -30,7 +30,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/2.png"
+                src="/saas-landing-page/testimonials/2.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -47,7 +47,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/3.png"
+                src="/saas-landing-page/testimonials/3.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -66,7 +66,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/4.png"
+                src="/saas-landing-page/testimonials/4.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -82,7 +82,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/5.png"
+                src="/saas-landing-page/testimonials/5.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -99,7 +99,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/6.png"
+                src="/saas-landing-page/testimonials/6.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -118,7 +118,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/7.png"
+                src="/saas-landing-page/testimonials/7.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -137,7 +137,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/8.png"
+                src="/saas-landing-page/testimonials/8.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
@@ -154,7 +154,7 @@ const TestimonialsSection = () => {
           <div className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20">
             <div className="flex space-x-3 mb-4">
               <img
-                src="/testimonials/9.png"
+                src="/saas-landing-page/testimonials/9.png"
                 className="w-12 h-12 rounded-full"
                 alt="Imagen del Usuario"
               />
