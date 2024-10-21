@@ -15,7 +15,7 @@ const FeaturesSection = () => {
         {features.map((feature, index) => (
           <div
             key={index}
-            className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20 shadow-lg p-6 h-full flex space-x-4"
+            className="border rounded-lg bg-white/20 backdrop-blur-lg p-6 dark:bg-gray-800/20 shadow-lg h-full flex space-x-4"
           >
             <div>
               <h3 className="font-bold text-xl text-gray-900 dark:text-gray-100">

@@ -2,13 +2,13 @@ import { Check } from "lucide-react";
 
 const PlanCard = ({ price, title, description, features, isPopular }) => {
   return (
-    <div className="border flex flex-col justify-between bg-white/20 dark:bg-gray-800/30 backdrop-blur-lg rounded-lg h-full p-6 hover:shadow-md text-left relative">
+    <div className="border flex flex-col justify-center bg-white/20 dark:bg-gray-800/30 backdrop-blur-lg rounded-lg h-full p-6 hover:shadow-md text-left relative">
       {isPopular && (
-        <div className="popular-tag absolute -top-7 left-0 bg-indigo-500 text-white px-2 py-1 rounded-t-lg w-full text-center">
+        <div className="absolute -top-7 left-0 bg-indigo-500 text-white px-2 py-1 rounded-t-lg w-full text-center">
           Popular
         </div>
       )}
-      <div>
+      <div className="flex flex-col justify-between h-full">
         <div className="inline-flex items-end">
           <h1 className="font-extrabold text-3xl text-black dark:text-white">
             {price}
